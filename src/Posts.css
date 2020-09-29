@@ -1,0 +1,12 @@
+.posts {
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 60px;
+  border-radius: 15px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  max-width: 530px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+}

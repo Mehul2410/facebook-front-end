@@ -1,0 +1,18 @@
+.sidebarM {
+  display: flex;
+}
+
+.sidebar__left {
+  display: flex;
+  flex: 0.1;
+}
+
+.sidebar__center {
+  display: flex;
+  flex: 0.7;
+}
+
+.sidebar__Right {
+  display: flex;
+  flex: 0.2;
+}
